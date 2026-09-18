@@ -528,4 +528,20 @@
     <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/sur-mesure"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/sur-mesure"/>
   </url>
+  <url>
+    <loc>https://www.sundatalab.io/cas-usage-fiches-produit</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/cas-usage-assistant-commercial</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/cas-usage-rapports-clients</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/cas-usage-declinaison-multi-marche</loc>
+    <lastmod>2026-09-18</lastmod>
+  </url>
 </urlset>
