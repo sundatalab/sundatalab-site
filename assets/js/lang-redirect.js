@@ -21,7 +21,7 @@
 
   try {
     var path = window.location.pathname;
-    var match = path.match(/\/(en|es)\/[^/]*$/);
+    var match = path.match(/^\/(en|es)(?:\/|$)/);
     var currentLang = match ? match[1] : "fr";
 
     var stored = null;
