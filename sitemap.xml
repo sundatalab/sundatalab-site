@@ -530,19 +530,99 @@
   </url>
   <url>
     <loc>https://www.sundatalab.io/cas-usage-fiches-produit</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/en/cas-usage-fiches-produit</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/es/cas-usage-fiches-produit</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-fiches-produit"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-fiches-produit"/>
   </url>
   <url>
     <loc>https://www.sundatalab.io/cas-usage-assistant-commercial</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/en/cas-usage-assistant-commercial</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/es/cas-usage-assistant-commercial</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-assistant-commercial"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-assistant-commercial"/>
   </url>
   <url>
     <loc>https://www.sundatalab.io/cas-usage-rapports-clients</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/en/cas-usage-rapports-clients</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/es/cas-usage-rapports-clients</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-rapports-clients"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-rapports-clients"/>
   </url>
   <url>
     <loc>https://www.sundatalab.io/cas-usage-declinaison-multi-marche</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/en/cas-usage-declinaison-multi-marche</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
+  </url>
+  <url>
+    <loc>https://www.sundatalab.io/es/cas-usage-declinaison-multi-marche</loc>
+    <lastmod>2026-09-21</lastmod>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.sundatalab.io/en/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://www.sundatalab.io/es/cas-usage-declinaison-multi-marche"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.sundatalab.io/cas-usage-declinaison-multi-marche"/>
   </url>
   <url>
     <loc>https://www.sundatalab.io/blog</loc>
