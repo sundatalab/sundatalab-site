@@ -1,0 +1,18 @@
+# Sundatalab
+
+> Sundatalab conçoit et fait tourner des outils d'intelligence artificielle pour les entreprises de 10 à 250 salariés (PME et ETI), sans direction informatique dédiée. Basée en France.
+
+## Produits et services
+
+- [Isalis](https://www.sundatalab.io/isalis): community management IA en licence, de 19 à 199 euros par mois selon le volume. Apprend l'identité visuelle et le ton de la marque du client, crée et publie visuels, vidéos et textes sur ses réseaux sociaux. Validation humaine obligatoire avant toute diffusion.
+- [Le Studio](https://www.sundatalab.io/sur-mesure): outils d'intelligence artificielle sur mesure, construits pour un métier précis (fiches produit, assistant commercial, rapports clients, déclinaison multi marché, entre autres). Audit facturé de 3 000 à 8 000 euros, construction de 20 000 à 80 000 euros selon le projet.
+- [Conformité RGPD et AI Act](https://www.sundatalab.io/conformite): diagnostic et accompagnement pour les usages d'intelligence artificielle en entreprise, recensement des outils utilisés y compris non déclarés, veille réglementaire optionnelle.
+
+## Ressources
+
+- [Blog, cas d'usage](https://www.sundatalab.io/blog): pages détaillant des cas d'usage concrets du Studio et de la Conformité.
+- [Ressources](https://www.sundatalab.io/ressources): guides pratiques (choisir entre licence et sur mesure, RGPD et AI Act, glossaire IA, entre autres).
+
+## Langues
+
+Contenu disponible en français (racine), anglais (/en/) et espagnol (/es/).
