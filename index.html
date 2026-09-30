@@ -10,7 +10,7 @@
   gtag('config', 'G-GBBZ1ZCBTD');
 </script>
 <meta charset="utf-8">
-<script src="assets/js/lang-redirect.js"></script>
+<script src="assets/js/lang-redirect.js" defer></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Sundatalab · Des outils d'IA qui font croître les entreprises</title>
 <meta name="description" content="Sundatalab démocratise l'IA en entreprise : Isalis, notre outil de community management IA, et des outils sur mesure pour votre métier. Sans DSI.">
@@ -27,7 +27,10 @@
 </script>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="preload" as="image" href="assets/img/isalis-campagne-born-in-exile-720.webp" imagesrcset="assets/img/isalis-campagne-born-in-exile-720.webp 720w, assets/img/isalis-campagne-born-in-exile.webp 1254w" imagesizes="(max-width: 860px) 78vw, 480px" fetchpriority="high">
+<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap">
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript><link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500&family=Instrument+Sans:wght@400;500;600&display=swap" rel="stylesheet"></noscript>
 <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
 <link rel="stylesheet" href="assets/css/style.css">
 </head>
@@ -104,8 +107,8 @@
     <div class="hero-visual">
       <div class="shot">
         <picture>
-          <source srcset="assets/img/isalis-campagne-born-in-exile.webp" type="image/webp">
-          <img src="assets/img/isalis-campagne-born-in-exile.jpg" alt="Visuel de campagne et projection de croissance générés par Isalis pour une marque cliente" loading="lazy">
+          <source type="image/webp" srcset="assets/img/isalis-campagne-born-in-exile-720.webp 720w, assets/img/isalis-campagne-born-in-exile.webp 1254w" sizes="(max-width: 860px) 78vw, 480px">
+          <img src="assets/img/isalis-campagne-born-in-exile.jpg" srcset="assets/img/isalis-campagne-born-in-exile-720.jpg 720w, assets/img/isalis-campagne-born-in-exile.jpg 1254w" sizes="(max-width: 860px) 78vw, 480px" width="1254" height="1254" alt="Visuel de campagne et projection de croissance générés par Isalis pour une marque cliente" fetchpriority="high">
         </picture>
       </div>
       <div class="shot-caption">généré par Isalis : visuel de campagne et projection de croissance pour une marque cliente</div>
