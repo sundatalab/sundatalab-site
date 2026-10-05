@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.sundatalab.io/sitemap.xml
+Sitemap: https://www.sundatalab.tech/sitemap.xml
