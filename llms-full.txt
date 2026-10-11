@@ -839,7 +839,7 @@ Voir la conformité en détail
 
 01
 
-## Ce que l'article 50 de l'AI Act impose, concrètement
+## Qu'impose l'article 50 de l'AI Act pour les contenus publiés sur les réseaux sociaux ?
 
 Depuis le 2 août 2026, un nouveau bloc d'obligations de l'AI Act européen s'applique. Parmi elles, l'article 50 pose une règle simple dans son principe : tout contenu, texte, image ou vidéo, généré ou modifié par une intelligence artificielle, doit être signalé comme tel lorsqu'il est diffusé publiquement. Une entreprise qui publie sur ses réseaux sociaux des visuels ou des textes produits par un outil d'IA est directement concernée.
 
@@ -847,7 +847,7 @@ C'est avant tout une règle de transparence. Les montants de sanction les plus �
 
 02
 
-## Pourquoi la conception de l'outil compte autant que l'usage
+## Pourquoi la conception de l'outil compte-t-elle autant que son usage ?
 
 Un outil d'IA pensé après coup pour « devenir conforme » n'aborde pas le sujet de la même manière qu'un outil conçu avec cette contrainte dès le départ. Isalis a été conçu et hébergé pour l'Europe dès le premier jour, avant même que cette conformité soit largement exigée : ce choix a ralenti son développement initial, mais évite aujourd'hui d'avoir à reconstruire l'outil pour répondre à des obligations qui s'imposent progressivement.
 
@@ -982,15 +982,15 @@ Voir la conformité en détail
 
 01
 
-## Le problème, concrètement
+## Pourquoi l'AI Act est-il difficile à appliquer pour un dirigeant non juriste ?
 
-La plupart des textes disponibles sur l'AI Act sont écrits pour des juristes : Annexe III, systèmes GPAI, article 50. Un dirigeant sans culture juridique n'a ni le temps ni la formation pour traduire ce vocabulaire en actions concrètes pour son entreprise, et finit par reporter le sujet, ou par improviser.
+L'AI Act est difficile à appliquer pour un dirigeant non juriste parce que le texte est rédigé pour des spécialistes, alors que l'essentiel de ce qu'il demande à une entreprise tient en quelques gestes : recenser ses outils d'IA, les classer par niveau de risque, former les équipes et signaler les contenus générés par IA lorsqu'ils sont diffusés publiquement. La plupart des textes disponibles sur l'AI Act sont écrits pour des juristes : Annexe III, systèmes GPAI, article 50. Un dirigeant sans culture juridique n'a ni le temps ni la formation pour traduire ce vocabulaire en actions concrètes pour son entreprise, et finit par reporter le sujet, ou par improviser.
 
 52 % des dirigeants d'entreprise ignorent précisément ce qu'ils ont le droit de faire avec l'IA (Bpifrance, Baromètre IA 2026). Ce flou n'est pas secondaire : une entreprise qui ne sait pas où elle en est utilise déjà, le plus souvent, des outils d'IA non recensés par sa propre direction.
 
 02
 
-## Ce qui est déjà obligatoire, sans détour
+## Qu'est-ce qui est déjà obligatoire pour une entreprise avec l'AI Act ?
 
 Depuis février 2025
 
@@ -1012,7 +1012,7 @@ Ce calendrier peut évoluer ; nous suivons les évolutions officielles et actual
 
 03
 
-## Prioriser, plutôt que tout traiter d'un coup
+## Par quoi commencer quand le budget est limité ?
 
 Un budget limité n'est pas une raison pour ne rien faire : c'est une raison de commencer par ce qui compte le plus.
 
@@ -1239,15 +1239,15 @@ Voir la conformité en détail
 
 01
 
-## Deux approches qui se ressemblent, en apparence
+## Cabinet de conformité IA ou outil en libre-service : quelle différence ?
 
-Un dirigeant qui cherche à savoir ce que son entreprise a le droit de faire avec l'IA trouve aujourd'hui deux grandes familles de réponses : un outil en ligne qui génère un auto-diagnostic en quelques minutes, ou un cabinet qui mène un diagnostic sur site. Les deux parlent de « conformité », de « registre » et de « plan d'action » : vus de loin, ils semblent interchangeables.
+Un outil en libre-service produit un auto diagnostic standardisé que l'entreprise remplit elle-même en quelques minutes ; un cabinet d'accompagnement recense et classe les usages réels de l'IA dans l'entreprise, y compris ceux qui n'ont jamais été déclarés. Un dirigeant qui cherche à savoir ce que son entreprise a le droit de faire avec l'IA trouve aujourd'hui deux grandes familles de réponses : un outil en ligne qui génère un auto-diagnostic en quelques minutes, ou un cabinet qui mène un diagnostic sur site. Les deux parlent de « conformité », de « registre » et de « plan d'action » : vus de loin, ils semblent interchangeables.
 
 52 % des dirigeants d'entreprise ignorent précisément ce qu'ils ont le droit de faire avec l'IA (Bpifrance, Baromètre IA 2026). Pour la plupart, le choix entre les deux familles d'offres se fait sans vraiment connaître ce que chacune recense, et ce qu'elle laisse de côté.
 
 02
 
-## Ce qui distingue vraiment les deux approches
+## Comment choisir entre les deux approches ?
 
 Ni l'une ni l'autre n'est mauvaise : elles répondent à des situations différentes.
 
@@ -1363,7 +1363,7 @@ Voir les prestations
 
 01
 
-## Le calendrier réglementaire
+## Quel est le calendrier de l'AI Act pour les entreprises ?
 
 L'AI Act européen entre en application par blocs successifs. Deux échéances concernent déjà toutes les entreprises.
 
@@ -1387,7 +1387,7 @@ Ce calendrier peut évoluer ; nous suivons les évolutions officielles et actual
 
 02
 
-## Ce que nous proposons
+## Que propose Sundatalab pour la conformité RGPD et AI Act ?
 
 Diagnostic
 
@@ -1471,7 +1471,7 @@ Pouvoir présenter un registre de conformité à un client ou un partenaire exig
 
 04
 
-## Souvent, le meilleur point de départ
+## Par où commencer sa mise en conformité IA ?
 
 Le diagnostic de conformité est court, chiffrable, et répond à une inquiétude réelle. Une entreprise qui découvre sept outils d'IA non recensés, dont plusieurs problématiques, a ensuite une conversation naturelle sur ce qu'il faut mettre à la place : que ce soit Isalis, un outil sur mesure, ou rien du tout.
 
@@ -1525,15 +1525,15 @@ Voir la conformité en détail
 
 01
 
-## Pourquoi ce n'est pas gratuit
+## Pourquoi le diagnostic AI Act est-il payant ?
 
-Plusieurs outils en ligne proposent un auto diagnostic AI Act gratuit, en trois à cinq minutes de questionnaire. Sundatalab a fait un autre choix : un questionnaire de quelques minutes ne peut pas recenser les usages réels d'une entreprise, en particulier ceux que la direction elle même ignore.
+Le diagnostic AI Act de Sundatalab est facturé de 5 000 à 10 000 euros, sur 2 à 3 semaines, parce qu'il recense les usages réels de l'IA dans l'entreprise, y compris ceux qui n'ont pas été déclarés, au lieu de se limiter à un questionnaire de quelques minutes. Plusieurs outils en ligne proposent un auto diagnostic AI Act gratuit, en trois à cinq minutes de questionnaire. Sundatalab a fait un autre choix : un questionnaire de quelques minutes ne peut pas recenser les usages réels d'une entreprise, en particulier ceux que la direction elle même ignore.
 
 Facturer le diagnostic garantit qu'il est mené jusqu'au bout, par nos équipes, sur les systèmes réellement utilisés. C'est le même principe que pour l'audit du Studio : nos diagnostics concluent parfois qu'il n'y a rien à construire ensuite, et c'est précisément ce qui les rend crédibles.
 
 02
 
-## Ce que le diagnostic recense, précisément
+## Que recense précisément le diagnostic AI Act ?
 
 Diagnostic AI Act
 
@@ -1557,7 +1557,7 @@ Une fois le registre établi, deux suites possibles et indépendantes : une veil
 
 03
 
-## Pourquoi le faire maintenant
+## Pourquoi faire un diagnostic AI Act maintenant ?
 
 L'obligation de formation du personnel à l'IA et l'interdiction de certaines pratiques à risque inacceptable sont en vigueur depuis février 2025. Depuis le 2 août 2026, un nouveau bloc d'obligations s'applique, notamment sur la transparence des systèmes d'IA et leur classement par niveau de risque.
 
@@ -1772,15 +1772,15 @@ Voir la conformité en détail
 
 01
 
-## Le problème, concrètement
+## Pourquoi un diagnostic AI Act ne suffit-il pas dans la durée ?
 
-Le diagnostic recense vos systèmes d'intelligence artificielle, les classe par niveau de risque et livre un registre de conformité prêt à l'emploi. Ce travail décrit une situation réelle à la date où il est réalisé : il ne se met pas à jour seul lorsque le calendrier réglementaire évolue ou qu'une nouvelle obligation entre en vigueur.
+Un diagnostic AI Act ne suffit pas dans la durée parce qu'il décrit la situation à une date donnée, alors que les usages de l'IA dans l'entreprise et la réglementation continuent d'évoluer. La veille réglementaire de Sundatalab maintient le registre à jour chaque mois, pour 300 à 800 euros par mois. Le diagnostic recense vos systèmes d'intelligence artificielle, les classe par niveau de risque et livre un registre de conformité prêt à l'emploi. Ce travail décrit une situation réelle à la date où il est réalisé : il ne se met pas à jour seul lorsque le calendrier réglementaire évolue ou qu'une nouvelle obligation entre en vigueur.
 
 Entre deux diagnostics, vos équipes continuent par ailleurs d'adopter de nouveaux outils d'intelligence artificielle, pas toujours portés à la connaissance de la direction. Un registre qui ne suit pas ces évolutions redevient, en quelques mois, aussi incomplet qu'avant le premier diagnostic.
 
 02
 
-## Ce que couvre la veille, mois après mois
+## Que couvre la veille réglementaire AI Act, mois après mois ?
 
 Mise à jour du registre
 
@@ -1883,15 +1883,15 @@ Voir le sur mesure en détail
 
 01
 
-## Pourquoi ce n'est pas un résultat raté
+## Un audit IA peut-il conclure qu'il ne faut rien construire ?
 
-Un audit du Studio Sundatalab n'a pas vocation à produire systématiquement une recommandation de construire. C'est un principe de fonctionnement assumé : nos audits sont facturés et concluent parfois qu'il ne faut rien construire. Si l'immersion dans votre métier ne révèle aucune tâche suffisamment répétitive ou coûteuse en temps pour justifier un projet, la recommandation écrite le dit, sans détour.
+Oui : un audit du Studio Sundatalab peut conclure qu'il ne faut rien construire, et c'est un résultat utile, pas un échec. Un audit du Studio Sundatalab n'a pas vocation à produire systématiquement une recommandation de construire. C'est un principe de fonctionnement assumé : nos audits sont facturés et concluent parfois qu'il ne faut rien construire. Si l'immersion dans votre métier ne révèle aucune tâche suffisamment répétitive ou coûteuse en temps pour justifier un projet, la recommandation écrite le dit, sans détour.
 
 Cette possibilité distingue l'audit d'un diagnostic gratuit pensé pour amener mécaniquement à une seule conclusion. Un dirigeant a déjà reçu plusieurs « audits gratuits » qui n'étaient en réalité que des avant-ventes déguisées : facturer la prestation, et accepter qu'elle puisse conclure négativement, est ce qui la rend crédible.
 
 02
 
-## Ce que vous obtenez même sans suite
+## Que reçoit l'entreprise si l'audit conclut qu'il ne faut rien construire ?
 
 Que la conclusion soit de construire ou non, le document remis a la même structure : une immersion dans votre métier et vos outils actuels, l'identification des tâches automatisables, et un chiffrage du gain attendu. Si ce chiffrage ne couvre pas, à vos yeux, le coût d'une construction sur mesure, la recommandation peut légitimement s'arrêter là.
 
@@ -1991,15 +1991,15 @@ Voir le sur mesure en détail
 
 01
 
-## Le problème, concrètement
+## Comment répondre plus vite aux questions techniques des prospects ?
 
-Un commercial qui attend la réponse d'un expert produit avant de répondre à un prospect perd du temps, et parfois l'occasion elle-même. Quand cet expert est une seule personne, ou une équipe restreinte, ce goulot d'étranglement se répète chaque semaine, sur des questions souvent déjà répondues ailleurs dans la documentation interne.
+Un assistant d'IA construit sur la documentation technique interne de l'entreprise répond en quelques secondes aux questions des commerciaux, sans attendre la disponibilité d'un expert produit. Un commercial qui attend la réponse d'un expert produit avant de répondre à un prospect perd du temps, et parfois l'occasion elle-même. Quand cet expert est une seule personne, ou une équipe restreinte, ce goulot d'étranglement se répète chaque semaine, sur des questions souvent déjà répondues ailleurs dans la documentation interne.
 
 81 % des entreprises qui investissent dans l'IA choisissent une solution sur mesure ou un développement spécifique plutôt qu'un outil standard (Bpifrance, Baromètre IA 2026). Un assistant technique interne est un cas typique où la documentation, le vocabulaire métier et les produits sont trop spécifiques pour qu'un outil générique y réponde correctement.
 
 02
 
-## Ce que l'outil fait, concrètement
+## Que fait l'outil, concrètement ?
 
 Un outil sur mesure construit sur ce cas s'appuie sur votre documentation technique interne existante (fiches produit, spécifications, réponses déjà données) pour répondre en langage naturel aux questions de vos commerciaux, avec un renvoi vers la source documentaire pour vérification.
 
@@ -2097,15 +2097,15 @@ Voir le sur mesure en détail
 
 01
 
-## Le problème, concrètement
+## Comment adapter un document commercial à plusieurs marchés ?
 
-Décliner un support commercial pour un nouveau marché ne se limite pas à le traduire : il faut aussi adapter les unités, les références culturelles et parfois la structure même du document. Refaire ce travail à la main pour chaque marché consomme un temps disproportionné par rapport à la valeur ajoutée réelle de la tâche.
+Adapter un document commercial à plusieurs marchés demande plus qu'une traduction : un outil d'IA sur mesure peut décliner le document source selon la langue, les unités et les références culturelles de chaque marché. Décliner un support commercial pour un nouveau marché ne se limite pas à le traduire : il faut aussi adapter les unités, les références culturelles et parfois la structure même du document. Refaire ce travail à la main pour chaque marché consomme un temps disproportionné par rapport à la valeur ajoutée réelle de la tâche.
 
 81 % des entreprises qui investissent dans l'IA choisissent une solution sur mesure ou un développement spécifique plutôt qu'un outil standard (Bpifrance, Baromètre IA 2026). Un outil de traduction générique ne couvre que la partie linguistique du problème, pas l'adaptation culturelle et réglementaire propre à chaque marché.
 
 02
 
-## Ce que l'outil fait, concrètement
+## Que fait l'outil, concrètement ?
 
 Un outil sur mesure construit sur ce cas prend votre document commercial source et le décline selon les paramètres propres à chaque marché : langue, unités, et références culturelles identifiées comme pertinentes pour votre activité.
 
@@ -2203,15 +2203,15 @@ Voir le sur mesure en détail
 
 01
 
-## Le problème, concrètement
+## Comment produire des milliers de fiches produit sans y consacrer une équipe entière ?
 
-Un catalogue de plusieurs milliers de références ne peut pas être rédigé fiche par fiche à la main sans y consacrer une équipe entière, en continu. Le résultat, quand cette tâche est sous dimensionnée, est connu : des fiches incomplètes, un ton incohérent d'une référence à l'autre, et un retard permanent dès qu'un nouveau produit arrive.
+Un outil d'IA sur mesure peut rédiger les fiches produit à partir du référentiel existant (caractéristiques techniques, visuels), selon le niveau de contrôle humain défini pendant l'audit, là où la rédaction manuelle demanderait une équipe entière en continu. Un catalogue de plusieurs milliers de références ne peut pas être rédigé fiche par fiche à la main sans y consacrer une équipe entière, en continu. Le résultat, quand cette tâche est sous dimensionnée, est connu : des fiches incomplètes, un ton incohérent d'une référence à l'autre, et un retard permanent dès qu'un nouveau produit arrive.
 
 81 % des entreprises qui investissent dans l'IA choisissent une solution sur mesure ou un développement spécifique plutôt qu'un outil standard (Bpifrance, Baromètre IA 2026). Un catalogue volumineux est justement le type de cas où un outil standard, pensé pour le métier moyen, ne colle pas à la structure réelle des données d'une entreprise en particulier.
 
 02
 
-## Ce que l'outil fait, concrètement
+## Que fait l'outil, concrètement ?
 
 Un outil sur mesure construit sur ce cas reprend la structure de votre catalogue existant (référentiel produit, caractéristiques techniques, visuels) et en déduit une fiche cohérente avec le ton et le vocabulaire de votre marque, référence par référence.
 
@@ -2309,15 +2309,15 @@ Voir le sur mesure en détail
 
 01
 
-## Le problème, concrètement
+## Comment automatiser la production des rapports clients ?
 
-Extraire des données d'exploitation, les vérifier, les mettre en forme et en faire un document présentable pour un client est un travail manuel qui se répète à chaque échéance, souvent dans l'urgence, avec un risque d'erreur à chaque ressaisie.
+Un outil d'IA sur mesure peut transformer automatiquement les données d'exploitation existantes en un rapport client structuré et lisible, au lieu d'un travail manuel répété à chaque échéance. Extraire des données d'exploitation, les vérifier, les mettre en forme et en faire un document présentable pour un client est un travail manuel qui se répète à chaque échéance, souvent dans l'urgence, avec un risque d'erreur à chaque ressaisie.
 
 81 % des entreprises qui investissent dans l'IA choisissent une solution sur mesure ou un développement spécifique plutôt qu'un outil standard (Bpifrance, Baromètre IA 2026). Le reporting client est un cas typique où le format et les données varient trop d'une entreprise à l'autre pour qu'un outil générique convienne durablement.
 
 02
 
-## Ce que l'outil fait, concrètement
+## Que fait l'outil, concrètement ?
 
 Un outil sur mesure construit sur ce cas reprend vos données d'exploitation existantes et les transforme automatiquement en un rapport structuré et lisible, prêt à être envoyé à vos clients, sans ressaisie manuelle intermédiaire.
 
@@ -2415,7 +2415,7 @@ Voir le sur mesure en détail
 
 01
 
-## Le contenu, concrètement
+## Que contient un audit IA pour une entreprise ?
 
 L'audit du Studio Sundatalab n'est pas un entretien suivi d'un avis oral. Il se compose de quatre éléments écrits et remis en fin de parcours : une immersion dans votre métier et vos outils actuels, l'identification des tâches qui sont répétitives et automatisables, un chiffrage du gain attendu si elles le sont, et une recommandation qui conclut l'ensemble.
 
@@ -2423,7 +2423,7 @@ L'immersion porte sur votre activité réelle, pas sur un modèle générique de
 
 02
 
-## Pourquoi ce document reste utile même sans suite
+## Le rapport d'audit reste-t-il utile sans projet derrière ?
 
 La recommandation écrite n'est pas un argumentaire commercial déguisé en diagnostic : elle peut conclure qu'il ne faut rien construire, et reste malgré tout exploitable. Vous savez ensuite précisément quelles tâches vous coûtent du temps, et ce qu'elles coûteraient à automatiser, que vous donniez suite ou non.
 
@@ -2523,7 +2523,7 @@ Voir le sur mesure en détail
 
 01
 
-## Le prix, concrètement
+## Combien coûte un audit IA pour une entreprise ?
 
 L'audit du Studio Sundatalab coûte entre 3 000 et 8 000 euros, sur une durée de 2 à 3 semaines. Le montant précis, à l'intérieur de cette fourchette, dépend de la taille de votre entreprise et de la complexité du besoin examiné : il n'est pas fixé avant d'avoir compris votre métier.
 
@@ -2531,7 +2531,7 @@ Ce prix couvre une prestation complète : immersion dans votre métier, identifi
 
 02
 
-## Pourquoi facturé, et pas offert
+## Pourquoi l'audit IA est-il facturé plutôt qu'offert ?
 
 Un dirigeant a, la plupart du temps, déjà reçu plusieurs « audits gratuits » qui n'étaient en réalité que des avant-ventes déguisées : un diagnostic bâclé, conçu pour amener à une seule conclusion, celle qui vend la prestation suivante. Facturer l'audit, et livrer un document réellement exploitable, y compris s'il conclut qu'il ne faut rien construire, est ce qui rend la démarche crédible.
 
@@ -2631,15 +2631,15 @@ Voir le sur mesure en détail
 
 01
 
-## Le problème, concrètement
+## Faut-il recruter un profil IA ou faire construire un outil sur mesure ?
 
-47% des entreprises françaises ont déjà lancé au moins un projet IA, mais 60% d'entre elles citent la difficulté à recruter des compétences data ou IA comme l'un des principaux freins (Bpifrance, Baromètre IA 2026). Le besoin est réel et le budget souvent disponible : c'est le recrutement lui-même qui bloque, faute de profils disponibles ou faute de visibilité sur le temps que prendrait cette recherche.
+Pour une entreprise sans équipe technique, faire construire un outil sur mesure est souvent plus rapide que recruter un profil IA : le Studio Sundatalab suit un calendrier fixe, un audit de 2 à 3 semaines puis une construction de 1 à 3 mois. 47% des entreprises françaises ont déjà lancé au moins un projet IA, mais 60% d'entre elles citent la difficulté à recruter des compétences data ou IA comme l'un des principaux freins (Bpifrance, Baromètre IA 2026). Le besoin est réel et le budget souvent disponible : c'est le recrutement lui-même qui bloque, faute de profils disponibles ou faute de visibilité sur le temps que prendrait cette recherche.
 
 Même quand un recrutement aboutit, l'entreprise dépend alors d'une seule personne pour faire vivre ses outils IA : son départ, une absence prolongée ou un simple changement de priorité suffisent à mettre le projet en pause. Un outil construit par une équipe externe, avec une maintenance optionnelle documentée, ne porte pas ce risque de dépendance à un seul poste.
 
 02
 
-## Ce que change le sur mesure
+## Que change le sur mesure par rapport au recrutement ?
 
 Le Studio Sundatalab remplace la question « qui recruter ? » par « quel outil construire ? ». L'audit immerge l'équipe dans votre métier, chiffre le gain attendu et aboutit à une recommandation écrite, utilisable même si vous ne construisez rien ensuite. La construction qui suit, si vous la lancez, livre un outil intégré à vos moyens existants, sans qu'aucun poste n'ait eu besoin d'être créé pour y arriver.
 
@@ -2737,7 +2737,7 @@ Voir des exemples
 
 01
 
-## Pourquoi le sur mesure, et pourquoi maintenant
+## Pourquoi choisir un outil d'IA sur mesure plutôt qu'un outil standard ?
 
 81 % des PME qui investissent dans l'IA choisissent une solution sur mesure ou un développement spécifique plutôt qu'un outil standard (Bpifrance, Baromètre IA 2026). Ce n'est pas une préférence esthétique : un outil standard est conçu pour le métier moyen, et le vôtre ne l'est pas.
 
@@ -2773,7 +2773,7 @@ Votre métier change, l'outil aussi, grâce à la maintenance, sans repartir d'u
 
 03
 
-## Le type de problème que nous résolvons
+## Quels problèmes un outil d'IA sur mesure résout-il ?
 
 Des tâches répétitives, coûteuses en temps, propres à votre entreprise : pas des cas génériques.
 
@@ -2864,7 +2864,7 @@ Demander un entretien
 
 05
 
-## Pourquoi l'audit est facturé
+## Pourquoi l'audit est-il facturé ?
 
 Un dirigeant a souvent déjà reçu plusieurs « audits gratuits » qui n'étaient en réalité que des avant-ventes déguisées. Facturer l'audit, et livrer un document réellement exploitable (y compris s'il conclut qu'il ne faut rien construire) est ce qui rend la démarche crédible.
 
