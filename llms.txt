@@ -44,6 +44,7 @@ Faits clés :
 - [Le prix d'un audit IA, et pourquoi il est facturé plutôt qu'offert](https://www.sundatalab.tech/prix-audit-ia-pme): Combien coûte un audit IA pour une PME (3 000 à 8 000 €, 2 à 3 semaines) et pourquoi il est facturé plutôt qu'offert : ce que Sundatalab livre concrètement.
 - [Pourquoi construire un outil sur mesure plutôt que recruter en interne](https://www.sundatalab.tech/sur-mesure-ia-recrutement-interne-pme): La pénurie de profils IA freine 60% des PME. Le Studio Sundatalab construit un outil sur mesure sans recrutement, en audit puis construction à prix fixe.
 - [Un outil qui n'existe pas encore, construit pour votre métier.](https://www.sundatalab.tech/sur-mesure): Nous concevons un outil d'intelligence artificielle adapté à votre métier, intégré à vos moyens existants, livré en quelques semaines à prix fixe.
+- [L'intégration d'un outil sur mesure à vos systèmes existants, ce que ça veut dire concrètement](https://www.sundatalab.tech/integration-outil-ia-sur-mesure-systemes-existants): Intégrer un outil IA sur mesure PME à vos systèmes existants, sans jamais toucher à la comptabilité ni à l'ERP : ce que couvre la phase de construction du Studio.
 
 ## Guides pour dirigeants
 - [À quoi ressemble un audit sur mesure, étape par étape](https://www.sundatalab.tech/ressources-audit-etape-par-etape): Le déroulé concret d'un audit sur mesure chez Sundatalab : immersion, identification des tâches automatisables, chiffrage, recommandation écrite.
