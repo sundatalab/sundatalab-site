@@ -45,6 +45,7 @@ Faits clés :
 - [Pourquoi construire un outil sur mesure plutôt que recruter en interne](https://www.sundatalab.tech/sur-mesure-ia-recrutement-interne-pme): La pénurie de profils IA freine 60% des PME. Le Studio Sundatalab construit un outil sur mesure sans recrutement, en audit puis construction à prix fixe.
 - [Un outil qui n'existe pas encore, construit pour votre métier.](https://www.sundatalab.tech/sur-mesure): Nous concevons un outil d'intelligence artificielle adapté à votre métier, intégré à vos moyens existants, livré en quelques semaines à prix fixe.
 - [L'intégration d'un outil sur mesure à vos systèmes existants, ce que ça veut dire concrètement](https://www.sundatalab.tech/integration-outil-ia-sur-mesure-systemes-existants): Intégrer un outil IA sur mesure PME à vos systèmes existants, sans jamais toucher à la comptabilité ni à l'ERP : ce que couvre la phase de construction du Studio.
+- [Comment un outil construit sur mesure pour un client peut devenir un produit du catalogue](https://www.sundatalab.tech/outil-ia-sur-mesure-produit-catalogue): Généralisé et anonymisé, un outil sur mesure du Studio peut devenir un produit en licence comme Isalis : la règle d'architecture de marque qui encadre cette bascule chez Sundatalab.
 
 ## Guides pour dirigeants
 - [À quoi ressemble un audit sur mesure, étape par étape](https://www.sundatalab.tech/ressources-audit-etape-par-etape): Le déroulé concret d'un audit sur mesure chez Sundatalab : immersion, identification des tâches automatisables, chiffrage, recommandation écrite.
