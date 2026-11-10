@@ -938,7 +938,7 @@ Demander un entretien
 
 01
 
-## Pourquoi la question de l'hébergement se pose, pour une entreprise française
+## Hootsuite est-il conforme au RGPD, et où ses données sont-elles hébergées?
 
 La plupart des outils de planification de réseaux sociaux utilisés par les entreprises françaises ont été conçus hors d'Europe, pour un marché nord-américain d'abord. Cela ne les rend pas inutilisables, mais cela change la question qu'un dirigeant doit se poser avant de confier ses données de marque, son calendrier éditorial et parfois les coordonnées de ses clients à un outil tiers: où ces données circulent-elles, et sur quelles règles?
 
@@ -946,11 +946,17 @@ Une entreprise sans DSI ni juriste interne n'a souvent ni le temps ni les moyens
 
 02
 
-## Ce qu'Isalis fait différemment, dès sa conception
+## Qu'est-ce qu'Isalis fait différemment, dès sa conception?
 
 Isalis est un outil de community management IA conçu et utilisé en interne par Sundatalab avant d'être proposé en licence à ses clients. Il a été conçu et hébergé pour l'Europe dès le premier jour, avant même que cette exigence soit largement demandée par les clients: ce choix a ralenti son développement initial, mais évite aujourd'hui d'avoir à reconstruire l'outil pour répondre à des règles qui s'imposent progressivement.
 
 Isalis apprend l'identité visuelle et le ton de votre marque, puis crée, planifie et publie visuels, vidéos et textes sur vos réseaux. Rien n'est publié sans validation humaine préalable: ce n'est pas seulement une garantie de qualité, c'est aussi le moment où une entreprise garde la main sur ce qui part réellement en son nom, plutôt que de déléguer entièrement la diffusion à un algorithme.
+
+- Isalis est conçu et hébergé pour l'Europe dès le premier jour.
+
+- Aucune publication ne part sans validation humaine préalable.
+
+- Isalis est un outil fini, déjà en exploitation chez Sundatalab avant d'être proposé en licence.
 
 03
 
@@ -1590,6 +1596,12 @@ Voir la conformité en détail
 Depuis le 2 août 2026, un nouveau bloc d'obligations de l'AI Act européen s'applique. Parmi elles, l'article 50 pose une règle simple dans son principe: tout contenu, texte, image ou vidéo, généré ou modifié par une intelligence artificielle, doit être signalé comme tel lorsqu'il est diffusé publiquement. Une entreprise qui publie sur ses réseaux sociaux des visuels ou des textes produits par un outil d'IA est directement concernée.
 
 C'est avant tout une règle de transparence. Les montants de sanction les plus élevés prévus par l'AI Act (jusqu'à 35 millions d'euros ou 7 % du chiffre d'affaires mondial pour les infractions les plus graves) visent en priorité les systèmes à haut risque et les fournisseurs de modèles de fondation, deux catégories qui concernent rarement une entreprise utilisant un outil de community management IA pour ses propres réseaux. Cela n'en fait pas un point secondaire: l'obligation de transparence s'applique dès la première publication.
+
+- Tout texte généré ou modifié par une intelligence artificielle, diffusé publiquement, doit être signalé comme tel.
+
+- Toute image générée ou modifiée par une intelligence artificielle, diffusée publiquement, doit être signalée comme telle.
+
+- Toute vidéo générée ou modifiée par une intelligence artificielle, diffusée publiquement, doit être signalée comme telle.
 
 02
 
@@ -2536,6 +2548,14 @@ Voir la conformité en détail
 
 L'AI Act est difficile à appliquer pour un dirigeant non juriste parce que le texte est rédigé pour des spécialistes, alors que l'essentiel de ce qu'il demande à une entreprise tient en quelques gestes: recenser ses outils d'IA, les classer par niveau de risque, former les équipes et signaler les contenus générés par IA lorsqu'ils sont diffusés publiquement. La plupart des textes disponibles sur l'AI Act sont écrits pour des juristes: Annexe III, systèmes GPAI, article 50. Un dirigeant sans culture juridique n'a ni le temps ni la formation pour traduire ce vocabulaire en actions concrètes pour son entreprise, et finit par reporter le sujet, ou par improviser.
 
+- Recenser les outils d'IA utilisés dans l'entreprise, y compris ceux non déclarés.
+
+- Classer chaque outil par niveau de risque.
+
+- Former les équipes à l'usage de ces outils.
+
+- Signaler les contenus générés par IA lorsqu'ils sont diffusés publiquement.
+
 Beaucoup de dirigeants de PME peinent à situer précisément ce qu'ils ont le droit de faire avec l'IA, faute de repères juridiques accessibles. Ce flou n'est pas secondaire: une entreprise qui ne sait pas où elle en est utilise déjà, le plus souvent, des outils d'IA non recensés par sa propre direction.
 
 02
@@ -2669,9 +2689,13 @@ Oui, une entreprise est concernée par l'AI Act dès qu'elle utilise un système
 
 Une entreprise qui se demande si elle est concernée a souvent déjà la réponse sans le savoir: dès qu'un système d'intelligence artificielle est utilisé dans son activité, qu'elle l'ait développé ou qu'elle se contente de l'utiliser, elle entre dans le champ du texte, à un titre ou à un autre. Reste à savoir lequel, et ce qu'il implique concrètement.
 
+- Le rôle que joue l'entreprise: fournisseur, qui développe ou met sur le marché un système d'IA, ou utilisateur (déployeur), qui l'emploie dans son activité.
+
+- Le niveau de risque du système d'IA utilisé: inacceptable, élevé, ou limité, chacun emportant des obligations différentes.
+
 02
 
-## Premier critère: le rôle de l'entreprise, fournisseur ou utilisateur
+## Premier critère: l'entreprise est-elle fournisseur ou utilisatrice d'un système d'IA?
 
 Fournisseur
 
@@ -3865,6 +3889,12 @@ tous les trois mois
 
 Un échange pour faire le point sur l'état du registre, les obligations entrées en vigueur depuis le dernier point, et les questions courantes de vos équipes sur l'usage de l'IA au quotidien.
 
+- Mise à jour du registre, en continu, au fil des évolutions de vos usages d'intelligence artificielle.
+
+- Alertes réglementaires dès qu'une obligation applicable évolue.
+
+- Point trimestriel sur l'état du registre et les obligations entrées en vigueur depuis le dernier point.
+
 Entre 300 et 800 euros par mois, selon le volume de vos systèmes d'IA à suivre: la veille prend le relais une fois le registre établi par le diagnostic, elle ne s'y substitue pas.
 
 Comme le diagnostic et l'accompagnement stratégique, c'est une prestation indépendante: vous l'activez seulement si vous le souhaitez, et vous pouvez l'arrêter.
@@ -3968,9 +3998,15 @@ Vous n'êtes engagé à rien pour la suite. Vous gardez un document exploitable,
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre métier, identification des tâches automatisables, chiffrage du gain attendu, recommandation écrite. Peut conclure qu'il ne faut rien construire.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos moyens existants, puis formation de vos équipes. Prix fixe, défini après l'audit, uniquement si vous décidez de poursuivre.
+
+- Maintenance (optionnelle, récurrente, 300 à 1 200 €/mois): Nous continuons à faire tourner l'outil, à le corriger et à l'ajuster à mesure que votre métier évolue.
 
 Audit
 
@@ -4081,9 +4117,15 @@ Le niveau de couverture atteignable, la structuration nécessaire de votre docum
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre documentation technique et vos processus commerciaux actuels, chiffrage du gain attendu, recommandation écrite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos outils commerciaux existants, puis formation de vos équipes.
+
+- Maintenance (optionnelle, récurrente): Nous ajustons l'outil à mesure que votre documentation et votre offre évoluent.
 
 Audit
 
@@ -4192,9 +4234,15 @@ Le nombre de marchés couverts en une fois, la profondeur d'adaptation nécessai
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre document source et vos marchés cibles, chiffrage du gain attendu, recommandation écrite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos outils existants, puis formation de vos équipes.
+
+- Maintenance (optionnelle, récurrente): Nous ajustons l'outil à mesure que votre document source évolue ou que vous ouvrez de nouveaux marchés.
 
 Audit
 
@@ -4303,9 +4351,15 @@ Les spécificités exactes (données sources disponibles, niveau d'automatisatio
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre catalogue et vos outils actuels, chiffrage du gain attendu, recommandation écrite. Utilisable même si vous ne construisez rien ensuite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à votre outil de gestion produit existant, puis formation de vos équipes.
+
+- Maintenance (optionnelle, récurrente): Nous ajustons l'outil à mesure que votre catalogue évolue, sans repartir d'un nouveau projet à chaque fois.
 
 Audit
 
@@ -4414,9 +4468,15 @@ Le format d'entrée exploitable, la connexion éventuelle à votre outil de gest
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans vos données d'exploitation et vos processus de reporting actuels, chiffrage du gain attendu, recommandation écrite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos outils existants, puis formation de vos équipes.
+
+- Maintenance (optionnelle, récurrente): Nous ajustons l'outil à mesure que vos besoins de reporting évoluent.
 
 Audit
 
@@ -4670,9 +4730,15 @@ C'est cette exigence de contenu, pas seulement de tarif, qui distingue l'audit d
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre métier, identification des tâches automatisables, chiffrage du gain attendu, recommandation écrite. Utilisable même si vous ne construisez rien ensuite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos moyens existants, puis formation de vos équipes. Prix fixe, défini après l'audit.
+
+- Maintenance (optionnelle, récurrente, 300 à 1 200 €/mois): Nous continuons à faire tourner l'outil, à le corriger et à l'ajuster à mesure que votre métier évolue.
 
 Audit
 
@@ -5107,7 +5173,7 @@ La maintenance est pensée pour les entreprises qui n'ont justement pas cette re
 
 03
 
-## Trois étapes distinctes, qui ne se vendent pas forcément ensemble
+## Les trois étapes (audit, construction, maintenance) se vendent-elles toujours ensemble?
 
 Audit
 
@@ -5126,6 +5192,12 @@ Maintenance (optionnelle)
 300 à 1 200 €/mois
 
 Ajustements dans le temps, souscrite dès la livraison ou plus tard si un besoin apparaît.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): immersion métier, tâches automatisables, gain chiffré, recommandation écrite, utilisable même sans suite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 €): conception, développement, intégration à vos moyens existants, formation de vos équipes.
+
+- Maintenance, optionnelle (300 à 1 200 €/mois): ajustements dans le temps, souscrite dès la livraison ou plus tard si un besoin apparaît.
 
 Les trois volets de l'offre Sundatalab se vendent séparément: une entreprise peut faire réaliser un audit sans construction, ou une construction sans maintenance.
 
@@ -5391,9 +5463,15 @@ C'est une règle que Sundatalab applique à elle-même: dire ce qui est, plutôt
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre métier, identification des tâches automatisables, chiffrage du gain attendu, recommandation écrite. Utilisable même si vous ne construisez rien ensuite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos moyens existants, puis formation de vos équipes. Prix fixe, défini après l'audit.
+
+- Maintenance (optionnelle, récurrente, 300 à 1 200 €/mois): Nous continuons à faire tourner l'outil, à le corriger et à l'ajuster à mesure que votre métier évolue.
 
 Audit
 
@@ -6047,9 +6125,15 @@ Le choix entre un outil sur mesure et une solution standard dépend avant tout d
 
 03
 
-## Comment nous travaillons
+## Comment se déroule un projet, de l’audit à la maintenance?
 
 Trois étapes, chacune indépendante: vous pouvez vous arrêter après l'audit, et continuer à recruter en parallèle si vous le souhaitez.
+
+- Audit (2 à 3 semaines, 3 000 à 8 000 €): Immersion dans votre métier et vos outils actuels, chiffrage du gain attendu, recommandation écrite. Utilisable même sans suite.
+
+- Construction (1 à 3 mois, 20 000 à 80 000 € selon le projet): Conception, développement, intégration à vos outils existants, puis formation de vos équipes. Aucun poste à créer pour y arriver.
+
+- Maintenance (optionnelle, 300 à 1 200 €/mois): Nous ajustons l'outil dans le temps, sans que vous ayez besoin de recruter pour l'entretenir.
 
 Audit
 
