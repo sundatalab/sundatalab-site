@@ -63,6 +63,8 @@ Faits clés :
 - [Ce qui se passe pendant la construction d'un outil IA sur mesure, de la conception à la formation](https://www.sundatalab.tech/construction-outil-ia-sur-mesure-pme): Les quatre étapes de la construction chez Sundatalab (conception, développement, intégration, formation), en 1 à 3 mois, et ce que l'intégration ne couvre jamais (comptabilité, ERP).
 - [Comment est fixé le prix de la construction d'un outil sur mesure, de 20 000 à 80 000 euros](https://www.sundatalab.tech/prix-construction-outil-ia-sur-mesure-pme): Le prix de la construction va de 20 000 à 80 000 euros chez Sundatalab, selon le périmètre fonctionnel, le nombre d'intégrations, le volume de données à migrer et le niveau de formation requis.
 
+- [Qui, côté client, doit être mobilisé pendant un audit puis une construction IA sur mesure](https://www.sundatalab.tech/mobilisation-client-audit-construction-ia-sur-mesure): Entretiens d'audit, validations pendant la construction, formation finale : les interlocuteurs à mobiliser côté client, étape par étape.
+
 ## Guides pour dirigeants
 - [À quoi ressemble un audit sur mesure, étape par étape](https://www.sundatalab.tech/ressources-audit-etape-par-etape): Le déroulé concret d'un audit sur mesure chez Sundatalab : immersion, identification des tâches automatisables, chiffrage, recommandation écrite.
 - [Cinq usages concrets de l'IA pour une entreprise](https://www.sundatalab.tech/ressources-cas-usage): Des exemples réels d'usages de l'IA en entreprise : community management, fiches produit, assistance commerciale et rapports clients.
