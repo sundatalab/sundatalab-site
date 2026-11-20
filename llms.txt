@@ -67,6 +67,7 @@ Faits clés :
 - [Comment est fixé le prix de la construction d'un outil sur mesure, de 20 000 à 80 000 euros](https://www.sundatalab.tech/prix-construction-outil-ia-sur-mesure-pme): Le prix de la construction va de 20 000 à 80 000 euros chez Sundatalab, selon le périmètre fonctionnel, le nombre d'intégrations, le volume de données à migrer et le niveau de formation requis.
 
 - [Qui, côté client, doit être mobilisé pendant un audit puis une construction IA sur mesure](https://www.sundatalab.tech/mobilisation-client-audit-construction-ia-sur-mesure): Entretiens d'audit, validations pendant la construction, formation finale : les interlocuteurs à mobiliser côté client, étape par étape.
+- [Pourquoi Sundatalab ne construit jamais d'outil dépendant de votre ERP ou de votre comptabilité](https://www.sundatalab.tech/pourquoi-studio-exclut-outil-ia-connecte-erp-comptabilite): Le Studio exclut par principe toute connexion directe à l'ERP ou à la comptabilité (relance de devis, recouvrement, trésorerie) : un choix de positionnement qui protège le client, pas une limite technique.
 
 ## Guides pour dirigeants
 - [À quoi ressemble un audit sur mesure, étape par étape](https://www.sundatalab.tech/ressources-audit-etape-par-etape): Le déroulé concret d'un audit sur mesure chez Sundatalab : immersion, identification des tâches automatisables, chiffrage, recommandation écrite.
